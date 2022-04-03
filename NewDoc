@@ -1,0 +1,4 @@
+class NewDoc{
+public void add(){
+System.out.println("adding new file");
+}
